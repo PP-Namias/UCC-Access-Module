@@ -66,6 +66,9 @@ body {
   -webkit-clip-path: polygon(0 0, 75% 0%, 100% 50%, 75% 100%, 0 100%, 0% 50%);
           clip-path: polygon(0 0, 75% 0%, 100% 50%, 75% 100%, 0 100%, 0% 50%);
 }
+.module__wrapper__seal__fixed img {
+  height: 400px;
+}
 .module__wrapper__form {
   display: flex;
   flex-direction: column;
